@@ -9,7 +9,7 @@ foco = st.radio("qual sua maior habilidade hoje?", (
     "Ser Bumbum guloso maximmo", 
     "Dar", 
     "Receber",
-    "todos"
+    "Amar"
 ))
 rotina = st.text_input("quanto vc deu hoje")
 
